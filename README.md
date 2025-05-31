@@ -1,2 +1,0 @@
-# sederhana3
-GAME ARCADE SEDERHANA
